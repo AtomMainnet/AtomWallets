@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Atom Core
+Comment=Atom P2P Cryptocurrency
+Comment[de]=Verbinde mit dem Atom peer-to-peer Netzwerk
+Comment[fr]=Atom, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Atom, eşten eşe kriptografik sanal para birimi
+Exec=atom-qt %u
+Terminal=false
+Type=Application
+Icon=atom128
+MimeType=x-scheme-handler/atom;
+Categories=Office;Finance;P2P;Network;Qt;
+StartupWMClass=Atom-qt

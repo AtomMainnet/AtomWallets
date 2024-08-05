@@ -1,0 +1,22 @@
+QT_TS = \
+  qt/locale/atom_ar.ts \
+  qt/locale/atom_bg.ts \
+  qt/locale/atom_de.ts \
+  qt/locale/atom_en.ts \
+  qt/locale/atom_es.ts \
+  qt/locale/atom_fi.ts \
+  qt/locale/atom_fr.ts \
+  qt/locale/atom_it.ts \
+  qt/locale/atom_ja.ts \
+  qt/locale/atom_ko.ts \
+  qt/locale/atom_nl.ts \
+  qt/locale/atom_pl.ts \
+  qt/locale/atom_pt.ts \
+  qt/locale/atom_ro.ts \
+  qt/locale/atom_ru.ts \
+  qt/locale/atom_sk.ts \
+  qt/locale/atom_th.ts \
+  qt/locale/atom_tr.ts \
+  qt/locale/atom_vi.ts \
+  qt/locale/atom_zh_CN.ts \
+  qt/locale/atom_zh_TW.ts
