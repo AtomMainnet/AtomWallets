@@ -1,10 +1,10 @@
 ATOM LINKS<br>
 -------------<br>
 <br>
-Website:  https://atomcoin.space/<br>
-Whitepaper:  https://atomcoin.space/atom_whitepaper_v.0.1.pdf<br>
-Github:  https://github.com/AtomMainnet<br>
-Twitter:   https://x.com/AtomMainnet<br>
+Website: https://atomcoin.space/<br>
+Whitepaper: https://atomcoin.space/atom_whitepaper_v.0.1.pdf<br>
+Github: https://github.com/AtomMainnet<br>
+Twitter: https://x.com/AtomCoreX<br>
 Announcement: https://bitcointalk.org/<br>
 Discord: https://discord.gg/d7xJ4hJPQA<br>
 <br>
