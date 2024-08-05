@@ -1,16 +1,19 @@
-Atom Core staging tree 18.0
-===========================
+ATOM LINKS
+-------------
 
-|CI|master|develop|
-|-|-|-|
-|Gitlab|[![Build Status](https://gitlab.com/atompay/atom/badges/master/pipeline.svg)](https://gitlab.com/atompay/atom/-/tree/master)|[![Build Status](https://gitlab.com/atompay/atom/badges/develop/pipeline.svg)](https://gitlab.com/atompay/atom/-/tree/develop)|
+Website:  https://atomcoin.space/
+Whitepaper:  https://atomcoin.space/atom_whitepaper_v.0.1.pdf
+Github:  https://github.com/AtomMainnet
+Twitter:   https://x.com/AtomMainnet
+Announcement: https://bitcointalk.org/
+Discord: https://discord.gg/d7xJ4hJPQA
 
-https://www.atom.org
+ECOSYSTEM ATOM
+-------------
+Explorer: https://exploreratom.space/
 
-For an immediately usable, binary version of the Atom Core software, see
-https://www.atom.org/downloads/.
 
-Further information about Atom Core is available in the [doc folder](/doc).
+
 
 What is Atom?
 -------------
