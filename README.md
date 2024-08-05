@@ -1,16 +1,16 @@
-ATOM LINKS
--------------
-
-Website:  https://atomcoin.space/
-Whitepaper:  https://atomcoin.space/atom_whitepaper_v.0.1.pdf
-Github:  https://github.com/AtomMainnet
-Twitter:   https://x.com/AtomMainnet
-Announcement: https://bitcointalk.org/
-Discord: https://discord.gg/d7xJ4hJPQA
-
-ECOSYSTEM ATOM
--------------
-Explorer: https://exploreratom.space/
+ATOM LINKS<br>
+-------------<br>
+<br>
+Website:  https://atomcoin.space/<br>
+Whitepaper:  https://atomcoin.space/atom_whitepaper_v.0.1.pdf<br>
+Github:  https://github.com/AtomMainnet<br>
+Twitter:   https://x.com/AtomMainnet<br>
+Announcement: https://bitcointalk.org/<br>
+Discord: https://discord.gg/d7xJ4hJPQA<br>
+<br>
+ECOSYSTEM ATOM<br>
+-------------<br>
+Explorer: https://exploreratom.space/<br>
 
 
 
