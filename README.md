@@ -12,7 +12,8 @@ ECOSYSTEM ATOM<br>
 -------------<br>
 Explorer: https://exploreratom.space/<br>
 
-
+RPC port - 18761<br>
+P2P port - 18762<br>
 
 
 What is Atom?
